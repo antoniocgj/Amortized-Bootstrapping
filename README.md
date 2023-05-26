@@ -32,11 +32,11 @@ Notice that this implementation does not use any compression techniques. Thus, m
 ```console
 $ make hexl
 ```
-1. Compile this code:
+2. Compile this code:
 ```console
 $ make
 ```
-1. Run our examples:
+3. Run our examples:
 ```console
 $ ./main_non_amortized
 $ ./main_amortized
