@@ -5,13 +5,16 @@ This repository holds the source code for reproducing the results of the paper *
 ## Citation
 
 ```
-@misc{cryptoeprint:2023/014,
-      author = {Antonio Guimarães and Hilder V. L. Pereira and Barry van Leeuwen},
-      title = {Amortized Bootstrapping Revisited: Simpler, Asymptotically-faster, Implemented},
-      howpublished = {Cryptology ePrint Archive, Paper 2023/014},
-      year = {2023},
-      note = {\url{https://eprint.iacr.org/2023/014}},
-      url = {https://eprint.iacr.org/2023/014}
+@inproceedings{guimaraes_amortized_2023,
+	address = {Singapore},
+	title = {Amortized {Bootstrapping} {Revisited}: {Simpler}, {Asymptotically}-{Faster}, {Implemented}},
+	isbn = {978-981-9987-36-8},
+	booktitle = {Advances in {Cryptology} – {ASIACRYPT} 2023},
+	publisher = {Springer Nature Singapore},
+	author = {Guimarães, Antonio and Pereira, Hilder V. L. and van Leeuwen, Barry},
+	editor = {Guo, Jian and Steinfeld, Ron},
+	year = {2023},
+	pages = {3--35},
 }
 ```
 
