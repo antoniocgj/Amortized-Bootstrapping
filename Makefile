@@ -1,4 +1,4 @@
-CC = g++
+CC = g++ -std=c++17
 FLAGS = -Wall -Wno-unused-variable -Wno-unused-function -Wno-write-strings -Wno-unused-result -funroll-all-loops -march=native -lm
 OPT_FLAGS = -O3 -fwhole-program -flto $(FLAGS)
 DEBUG_FLAGS = -O0 -g $(FLAGS)
